@@ -5,7 +5,7 @@ This follows the format of ONRAMP but will not have every question
  - [x]Basic Scripting
  - [x]vectors and matrixes
  - [x]Array Indexing and calc
- - [ ]function calls
+ - [x]function calls and documentation
  - [ ]plots
  - [ ]Data import
  - [ ]logical arrays 
