@@ -8,4 +8,5 @@ This follows the format of ONRAMP but will not have every question
  - [x]function calls and documentation
  - [x]plots
  - [x]logical arrays 
- - [ ]Programming 
+ - [x]Programming 
+ - [ ]Final Proj
